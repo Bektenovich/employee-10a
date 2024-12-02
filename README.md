@@ -88,5 +88,4 @@ Run the `HelloApplication.java` file in your IDE to launch the application. The 
 
 <img width="954" alt="image" src="https://github.com/user-attachments/assets/c7cbdb34-5a9a-48c0-8306-c12b20785e08">
 
-
 ---
